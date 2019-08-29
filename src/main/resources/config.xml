@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <name>张三</name>
+        <age>18</age>
+        <sex>男</sex>
+    </user>
+    <user>
+        <name>李四</name>
+        <age>16</age>
+        <sex>女</sex>
+    </user>
+    <user>
+        <name>王五</name>
+        <age>25</age>
+        <sex>不明</sex>
+    </user>
+
+</users>
